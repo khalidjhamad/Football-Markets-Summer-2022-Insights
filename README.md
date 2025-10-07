@@ -79,7 +79,9 @@ By adopting data-driven strategies, improving club funding, and retaining top ta
 - **Jupyter Notebook** (analysis workflow)  
 
 ---
-
+## 🎥 Presentation
+📊 **Watch the presentation deck here:**  
+[➡️ View on Google Drive](https://drive.google.com/file/d/1cgKz8rHMAbzmwwhlLM-szulBO5RISgmj/view?usp=drive_link)
 
 
 
