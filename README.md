@@ -1,17 +1,67 @@
 # From Stepping-Stone to Powerhouse: Can Eredivisie Break into the Top 5?
-# ⚽ Football Transfer Market 2022 Insights for Eredivise   
+⚽ Eredivisie Transfer Market Analysis — Capstone Project
+📘 Project Overview
 
-### 📖 Overview  
-This project analyzes global football transfer data to uncover patterns in player movements, transfer fees, market values, and career progression. It is designed to give **players and agents** data-driven insights to optimize career decisions — including the best timing for transfers, positions with the highest demand, and the impact of transfer types (permanent, loan, free) on career growth.
+This project analyzes the football transfer market with a special focus on the Eredivisie (Netherlands) and its position compared to Europe’s Top 5 leagues — the Premier League, La Liga, Serie A, Bundesliga, and Ligue 1.
+Using data from the Summer 2022 transfer window, the analysis explores transfer spending patterns, player movement, market value gaps, and club strategies.
 
----
+The goal is to provide insights and recommendations for the Dutch football governing body to help elevate the Eredivisie into Europe’s top competitive leagues.
 
-### 🎯 Objectives  
-- Provide **data-driven insights** for players and agents to make smarter career and transfer decisions.  
-- Identify the **optimal age windows** for transfers to maximize value and career growth.  
-- Highlight which **leagues** offer the best opportunities and upward mobility for players.  
-- Compare **positions** to show where demand and transfer fees are highest.  
-- Analyze **transfer types** (permanent, loan, free) to understand career pathways and financial impact.  
+🎯 Problem Statement
+
+The Eredivisie is recognized as a strong talent-developing league; however, Dutch clubs often act as net sellers, transferring young players to top leagues for lower fees.
+This project investigates how transfer spending, player value, and movement trends affect the Eredivisie’s competitiveness and provides data-driven recommendations for improvement.
+
+🎯 Objectives
+
+Analyze transfer patterns and financial flows between Eredivisie and other leagues.
+
+Identify factors influencing player transfer fees (age, position, market value).
+
+Compare Eredivisie spending behavior with top European leagues.
+
+Provide actionable recommendations to strengthen Eredivisie’s market position.
+
+🔍 Key Questions
+
+How does Eredivisie’s transfer spending compare with top European leagues?
+
+Are Dutch clubs undervaluing players compared to other leagues?
+
+Which positions and age groups dominate Eredivisie transfers?
+
+What is the relationship between player age and transfer cost?
+
+How can financial and strategic improvements help Eredivisie compete globally?
+
+
+💡 Recommendations
+
+💰 Support clubs financially to enhance competitiveness.
+
+🌟 Invest in high-value players to improve quality and market appeal.
+
+📊 Apply data analytics for smarter transfer and scouting decisions.
+
+🧒 Retain young talent longer before transferring abroad.
+
+🌍 Increase global exposure through marketing and broadcasting deals.
+
+⚠️ Limitations
+
+Data covers only one transfer window (Summer 2022).
+
+Player performance metrics (e.g., goals, assists) not included.
+
+Limited financial details for smaller clubs.
+
+External factors (injuries, contracts, agent influence) not captured.
+
+
+🏁 Conclusion
+
+The Eredivisie shows strong player development potential but lags in financial power compared to top leagues.
+By adopting data-driven strategies, improving club funding, and retaining top talent, the league can move closer to being among Europe’s Top 5 football leagues.
    
 
 ---
