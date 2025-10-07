@@ -1,5 +1,5 @@
-# Football-Markets-Summer-2022-Insights
-# ⚽ Football Transfer Market Insights for Players & Agents  
+# From Stepping-Stone to Powerhouse: Can Eredivisie Break into the Top 5?
+# ⚽ Football Transfer Market 2022 Insights for Eredivise   
 
 ### 📖 Overview  
 This project analyzes global football transfer data to uncover patterns in player movements, transfer fees, market values, and career progression. It is designed to give **players and agents** data-driven insights to optimize career decisions — including the best timing for transfers, positions with the highest demand, and the impact of transfer types (permanent, loan, free) on career growth.
